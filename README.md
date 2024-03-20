@@ -1,4 +1,4 @@
-# Projet Formulaire HTML et PHP
+# Projet Bootstrap
 
 Le projet consiste à apprendre les bases de HTML et PHP.
 Il permet de tester le fonctionnement de **git**.
@@ -19,6 +19,6 @@ Cette activité doit permettre de réviser
 
 - # 'css': repertoire contenant le code de style
 
-# htmlphp
+# index.html
 
-Voici mon Projet avec mes camarades Amar, Aymen sur l'apprentissage de Git
+Voici mon Projet sur l'apprentissage de Git
